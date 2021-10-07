@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Library>
+    <Publication>
+        <type>Newspaper</type>
+        <editor>Molochko U. I.</editor>
+        <title>Peace</title>
+        <circulation>200</circulation>
+        <countPage>77</countPage>
+    </Publication>
+    <Publication>
+        <type>Magazine</type>
+        <editor>Rubanov V. S.</editor>
+        <title>Water</title>
+        <circulation>100</circulation>
+        <countPage>10</countPage>
+    </Publication>
+    <Publication>
+        <type>Book</type>
+        <author>Petriv V. A.</author>
+        <title>War</title>
+        <circulation>177</circulation>
+        <countPage>145</countPage>
+        <genre>Art</genre>
+    </Publication>
+    <Publication>
+        <type>Book</type>
+        <author>Petriv V. A.</author>
+        <title>War</title>
+        <circulation>177</circulation>
+        <countPage>145</countPage>
+        <genre>Art</genre>
+    </Publication>
+    <Publication>
+        <type>Book</type>
+        <author>Petriv V. A.</author>
+        <title>War</title>
+        <circulation>177</circulation>
+        <countPage>145</countPage>
+        <genre>Art</genre>
+    </Publication>
+    <Publication>
+        <type>Book</type>
+        <author>Molochko U. I.</author>
+        <title>Peace</title>
+        <circulation>89</circulation>
+        <countPage>1345</countPage>
+        <genre>Novels</genre>
+    </Publication>
+    <Publication>
+        <type>Book</type>
+        <author>Rubanov V. S.</author>
+        <title>Sun</title>
+        <circulation>21</circulation>
+        <countPage>2456</countPage>
+        <genre>Detective</genre>
+    </Publication>
+    <Publication>
+        <type>Book</type>
+        <author>Petrov G. P.</author>
+        <title>Water</title>
+        <circulation>222</circulation>
+        <countPage>198</countPage>
+        <genre>Fantasy</genre>
+    </Publication>
+    <Publication>
+        <type>Newspaper</type>
+        <editor>Romanov R. D.</editor>
+        <title>Room</title>
+        <circulation>32</circulation>
+        <countPage>100</countPage>
+    </Publication>
+    <Publication>
+        <type>Magazine</type>
+        <editor>Romanov R. D.</editor>
+        <title>Room</title>
+        <circulation>32</circulation>
+        <countPage>100</countPage>
+    </Publication>
+</Library>
